@@ -4,8 +4,6 @@
 # - "radar" -> True, "anita lava la tina" -> True, "python" -> False, "" -> True, "Radar" -> True
 # - suma(2,3) -> 5; suma(0,5) -> 5; suma(-2,3) -> 1
 
-from palindromo import es_palindromo
-from utils import suma
+from python_app.palindromo import es_palindromo
 
-def test_ejemplo_siembra():
-    assert True
+
