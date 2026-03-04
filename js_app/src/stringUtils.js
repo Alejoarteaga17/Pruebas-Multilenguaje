@@ -10,6 +10,7 @@ function isPalindrome(s) {
   } else {
     return false;
   }
+  
 }
 
 module.exports = { isPalindrome };
